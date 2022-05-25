@@ -1,5 +1,4 @@
 # Screenshots
-![alt text](https://user-images.githubusercontent.com/72733603/170331832-24682375-f0a6-4513-a035-9f1d003090cd.png)
 ![alt text](https://user-images.githubusercontent.com/72733603/170332391-b0984c8a-910d-43dc-8951-bbce8f516469.png)
 ![alt text](https://user-images.githubusercontent.com/72733603/170336529-439a1a50-1506-4312-8ed6-741a35d0f379.png)
 ![alt text](https://user-images.githubusercontent.com/72733603/170336622-f5081d4f-db2d-4925-a2a3-90510e1a6a48.png)
